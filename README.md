@@ -5,4 +5,4 @@ A simple Netflix clone built using Next JS with Typescript binding to prevent er
 Execute locally with [`npm run dev`] with [npm](https://docs.npmjs.com/cli/init) to bootstrap the app. \
 Also, you can view it [here](https://netflix-clone-by-daniel-brai.vercel.app/) on the net. \
 Note: 
- - To access the Home page of the app, you must first a subscriber by entering a test card details which are 4242424242424242, and expiry date and cv and you can cancel the subscription at any time.
+ - To access the Home page of the app, you must first be a subscriber by entering a test card details which are 4242424242424242, and any expiry date and cv and you can cancel the subscription at any time.
